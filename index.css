@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    position: relative;
+    /* top: 50%;
+    left: 50%; */
+    background-color: aqua;
+    text-align: center;
+    justify-content:center;
+    justify-items: center;
+    
+    
+}
+.container{
+    
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    display: inline;
+    justify-content:center;
+    justify-items: center;
+    
+}
+input{
+    background-color: blue;
+    border: solid 2px black;
+    height:20px;
+}
+.submitclass{
+    background-color: aquamarine;
+    color: rgb(36, 36, 15);
+    height:30px;
+
+}
+.guessfield{
+    background-color: blueviolet;
+    color: azure;
+    height: 30px;
+}
+.resetclass{
+    background-color: brown;
+    color:white
+    height: 25px;
+}
+.bottom{
+    width:535px;
+    height:10vh;
+    padding: 50px;
+    align-content: center;
+    justify-content: center;
+    background-color: black;
+    color: azure;
+    justify-items: center;
+    font-size:x-large;
+    font-style: italic;
+    font-display: inline;
+    display :flex;
+    position: absolute;
+    
+   
+}
+.img{
+    background: cover;
+}
